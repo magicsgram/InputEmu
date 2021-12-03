@@ -1,0 +1,1 @@
+dotnet publish -c Release -r win-x64 --self-contained=true -p:PublishReadyToRun=true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o ./published

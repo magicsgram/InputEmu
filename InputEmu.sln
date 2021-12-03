@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputEmu", "InputEmu\InputEmu.csproj", "{BDFCA00E-FC8D-4912-A884-68C3CC856859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Debug|x64.ActiveCfg = Debug|x64
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Debug|x64.Build.0 = Debug|x64
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Release|x64.ActiveCfg = Release|x64
+		{BDFCA00E-FC8D-4912-A884-68C3CC856859}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F9A809-0779-4268-B80A-2632A5C055D8}
+	EndGlobalSection
+EndGlobal
